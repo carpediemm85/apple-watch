@@ -1,0 +1,18 @@
+.nav {
+  display: flex;
+}
+h2 {
+  padding-left: 80px;
+}
+#first-nav-item {
+  padding-left: 300px;
+}
+p {
+  padding-left: 140px;
+  padding-top: 10px;
+}
+#last-nav-item {
+  /* justify-items: right; */
+  right: 150px;
+  position: absolute;
+}
